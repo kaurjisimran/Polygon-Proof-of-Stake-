@@ -1,7 +1,5 @@
 # Proof of Stake
 
-## Description
-
 This project consists of smart contract code and hardhat JavaScript scripts for batch minting NFTs and performing batch transfers of NFTs from Goerli Ethereum Testnet to Polygon Mumbai using the FxPortal Bridge.
 
 ## Getting Started
